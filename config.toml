@@ -4,7 +4,7 @@ theme = "hugo-theme-flat"
 enableRobotsTXT = true
 hasCJKLanguage = true
 paginate = 6
-baseURL = "https://fairytalesbykcc.github.io"
+baseURL = "https://fairytalesbykcc.github.io/"
 
 # these values are hugo built in markup config
 [markup.highlight]
